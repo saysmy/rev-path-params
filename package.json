@@ -1,0 +1,34 @@
+{
+  "name": "rev-path-params",
+  "version": "1.0.0",
+  "description": "Create a revved file path",
+  "license": "MIT",
+  "repository": "sindresorhus/rev-path",
+  "author": {
+    "name": "smy",
+    "email": "793501972@qq.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "rev",
+    "revving",
+    "web",
+    "file",
+    "name",
+    "filename",
+    "path",
+    "cache",
+    "caching"
+  ],
+  "dependencies": {
+    "modify-filename": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
